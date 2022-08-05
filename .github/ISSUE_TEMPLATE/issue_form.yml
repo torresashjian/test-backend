@@ -26,3 +26,10 @@ body:
         * When possible, steps to reliably produce the bug.
     validations:
       required: true
+  - type: textarea
+    attributes:
+      label: Logs
+      description: |
+        This is where you add all the logs related to the bug.
+    validations:
+      required: true
