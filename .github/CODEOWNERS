@@ -1,0 +1,30 @@
+# This is a comment.
+# Each line is a file pattern followed by one or more owners.
+
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence
+#       @antoniomtz @Craig-Spencer-12 @ejlee3 @ernestojeda @lenny-intel @NeethuES-intel @sicoyle @seanohair22
+
+# This is the maintainers team
+*       @intel-collab/kaskey-park-maintainers
+
+# Microservices Owners - Task Launcher
+/as-task-launcher/
+
+# Microservices Owners - Data Organizer
+/ms-data-organizer/
+
+# Microservices Owners - File Receiver
+/ms-file-receiver-gateway/
+
+# Microservices Owners - File Sender
+ms-file-sender-oem/
+
+# Microservices Owners - File Watcher
+/ms-file-watcher/
+
+# Microservices Owners - Job Repo
+/ms-job-repository/
+
+# Microservices Owners - pkg
+/pkg/
